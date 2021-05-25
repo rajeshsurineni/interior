@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type"content="text/html;charset=UTF-8"/>
+    
+<title>Website Project</title>
+</head>
+<body>
+<table width="100%" height="60" border="0" cellspacing="5" cellpadding="5"
+bgcolor="#000000">
+<tr>
+    <td align="center">
+        <table width="547" border="0" align="centre" cellpadding="1"
+        cellspacing="1">
+    <td width="96"><font face="Verdana,Geneva,sana-serif" color="white"><h3>Home</h3>
+    </font>
+</td>
+<td width="113"><font face="Verdana,Geneva,sana-serif" color="white"><h3>About</h3>
+</font>
+</td>
+<td width="128"><font face="Verdana,Geneva,sana-serif" color="white"><h3>Services</h3>
+</font>
+</td>
+<td width="114"><font face="Verdana,Geneva,sana-serif" color="white"><h3>Clients</h3>
+</font>
+</td>
+<td width="80"><font face="Verdana,Geneva,sana-serif" color="white"><h3>Contact</h3>
+</font>
+</td>
+</table>
+    </td>
+</tr>
+</table>
+<table width="100%"height="150" border="0" cellspacing="5"cellpadding="5"
+bgcolor="#F0F0F0">
+<tr>
+<td align="center">
+ <table width="708"border="0"cellspacing="1"cellpadding="1">
+   <td width="338" align="left"><font face="Verdana,Geneva,sana-serif"color="black"size="5"><strong>My Business</strong>
+<br/>
+INTERIOR DESIGN</font></td>
+<td width="291" align="right"><font face="Verdana,Geneva,sana-serif"color="black"size="5"><strong>Call us Today!</strong>
+<br/>
+91-8262-6137</font>
+</td>
+</tr>
+</td>
+</table>
+<table="100%" height="150"border="0"cellspacing="5"cellpadding="5"
+bgcolor="white">
+<tr>
+<td align="centre">
+<table width="600"border="0"cellspacing="1"cellpadding="1">
+<tr>
+<td align="center">
+<img src="https://www.accountingweb.com/sites/default/files/styles/banner/public/meeting_with_clients_vgajic.jpg?itok=VD9xD0Yh"width="1300px" height="400px"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<table width="100%" height="82" border="0" cellspacing="5" cellpadding="5" bgcolor="white">
+<tr>
+<td height="72" align="center"valign="top">
+<table width="730" border="0" cellspacing="1"cellpadding="1">
+<tr>
+<td width="726"align="center"><font face="Verdana,Geneva,sana-serif"color="black"size="6">THIS IS OUR COMPANY<strong><br/>
+ DREAM TO PLAN AND CREATE.DESIGN NEWTHINGS.</strong><br/>
+</font></td> 
+</table>
+</td>
+</tr>
+</table>
+<table width="100%"height="236"border="0"cellspacing="5"cellpadding="5"bgcolor="white">
+<tr>
+<td height="72"align="center"valign="top">
+<table width="313"border="0"cellspacing="3"cellpadding="3"bgcolor="#FF9900">
+<tr>
+<td width="301"align="center"nowrap="nowrap"><font color="white" size=""5" face="Verdana,Geneva,sana-serif"><a href="https://www.ownplaceinteriors.com/"target="_blank">CONTACT US TODAY</a><br/>
+</font></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="72" align="çenter"valign="top">
+<font color="black"size="2"face="Verdana,Geneva,sana-serif"><strong>REGISTER FOR OUR BROCHURE:</strong></font><br/>
+<form name="contact" method="post">
+<input type="text"name="email"/>
+<input type="submit"name="button"value="submit"/>
+</form>
+</td>
+</tr>
+</table>
+<img src="https://static.wixstatic.com/media/fd650a_321933751eaa4359b95a03c76044ce8c~mv2.jpg/v1/fill/w_533,h_388,al_c,q_80,usm_0.66_1.00_0.01/fd650a_321933751eaa4359b95a03c76044ce8c~mv2.webp"height="500px"width="700px"/>
+<table width="100%" height="236" border="0" cellspacing="5" cellpadding="5"bgcolor="white">
+<tr>
+<td height="72" align="center"valign="top">
+<table width="900" border="1" bordercolor="#cccccc" cellspacing="0"cellpadding="8">
+<tr>
+<td width="268"><font face="Verdana,Geneva,sana-serif"color="black"size="3"><strong><b>ABOUT US</b></strong></font></td>
+
+<td width="286"><font face="Verdana,Geneva,sana-serif"color="black"size="3"><strong><b>OUR VISION</b></strong></font></td>
+
+<td width="290"><font face="Verdana,Geneva,sana-serif"color="black"size="3"><strong><b>SERVICES</b></strong></font></td>
+</tr>
+<tr>
+<td><font face="Verdana,Geneva,sana-serif"color="black"size="4"><b>We are the most trusted organisation in the universe for the interior design.Our organisation is certifed with various Governmental organistaions.We have recieved the Gold medal our best service.
+</b></font></td>
+<td valign="top"><font face="Verdana,Geneva,sana-serif" color="black"size="4"><b>Our vision is to work for the people and to satisfy the needs of our clients</b> </font></td>
+<td valign="top">
+<font face="Verdana,Geneva,sana-serif"color="black"size="4">
+<b>
+<ul>
+<li>Remodelling</li>
+<li>Home-service</li>
+<li>Interior -design</li>
+<li>Material-supply</li>
+<li>Architect-Design</li>
+</ul>
+</b>
+</font>
+</td>
+</table>
+<table width="100%" height="60" border="0" cellspacing="5" cellpadding="5"bgcolor="#000000">
+<tr>
+<td align="center">
+<font face="Verdana,Geneva,sana-serif"color="red">
+Home-About-Services-Clients-Contact<br/>
+<br/>
+@2020 by our business website</font>
+</td>
+</tr>
+</table> 
+</body>
+</html>
